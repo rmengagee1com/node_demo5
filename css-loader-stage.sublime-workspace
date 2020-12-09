@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"secon",
+				"secondEmail"
+			],
+			[
+				"se",
+				"secondEmail"
+			],
+			[
+				"e",
+				"emailAddress"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"email",
+				"emailAddress"
+			],
+			[
+				"ex",
+				"extractEmails"
+			],
+			[
+				"ge",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 278,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/scripts/App.js",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/styles/styles.css",
+			"settings":
+			{
+				"buffer_size": 16,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Build",
+				"Build: Cancel"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"op",
+				"Preferences: Open in Browser Settings"
+			],
+			[
+				"Package Control:",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"npm install webpack webpack-cli --save-dev"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Training2020/node_demo5",
+		"/C/Training2020/node_demo5/app",
+		"/C/Training2020/node_demo5/app/assets",
+		"/C/Training2020/node_demo5/app/assets/scripts",
+		"/C/Training2020/node_demo5/app/assets/styles"
+	],
+	"file_history":
+	[
+		"/C/Training2020/node_demo5/app/assets/scripts/App.js",
+		"/C/Training2020/node_demo5/package.json",
+		"/C/Training2020/travel-site/webpack.config.js",
+		"/C/Users/wardell/.node_repl_history",
+		"/C/Training2020/node_demo4/index.html",
+		"/C/Users/wardell/.gitconfig",
+		"/C/Training2020/node_demo4/.git/COMMIT_EDITMSG",
+		"/C/Users/wardell/AppData/Roaming/Sublime Text 3/Packages/Default/comment.py",
+		"/C/Program Files/Sublime Text 3/Packages/Default.sublime-package",
+		"/C/Training2020/node_demo4/webpack.config.js",
+		"/C/Training2020/node_demo4/app/assets/styles/styles.css",
+		"/C/Training2020/node_demo3/webpack.config.js",
+		"/C/Training2020/node_demo3/app/assets/scripts/App.js",
+		"/C/Training2020/node_demo3/app/bundled.js",
+		"/C/Training2020/node_demo3/app/index.html",
+		"/C/Training2020/node_demo3/app/assets/styles/styles.css",
+		"/C/Training2020/travel-site/app/index.html",
+		"/C/Training2020/node_demo3/package-lock.json",
+		"/C/Training2020/node_demo3/package.json",
+		"/C/Training2020/node_demo3/test.js",
+		"/C/Training2020/app/assets/styles/styles.css",
+		"/C/Training2020/app/assets/scripts/Apps.js",
+		"/C/Training2020/node_demo2/webpack.config.js",
+		"/C/Training2020/node_demo2/app/assets/scripts/App.js",
+		"/C/Training2020/node_demo2/package.json",
+		"/C/Training2020/node_demo2/app/package.json",
+		"/C/Training2020/node_demo2/app/index.html",
+		"/C/Training2020/travel-site/package.json",
+		"/C/Training2020/node_demo/index.html",
+		"/C/Training2020/node_demo/app/bundled.js",
+		"/C/Training2020/node_demo/webpack.config.js",
+		"/C/Training2020/node_demo/app/assets/styles/styles.css",
+		"/C/Training2020/node_demo/app/assets/scripts/App.js",
+		"/C/Training2020/travel-site/app/assets/scripts/Apps.js",
+		"/C/Training2020/node_demo/CSSgrid.html",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/HTML NOTES/form.html",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/formTemplate-03.html",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/FLEX-BOX/CSS Snapshot 2017.html",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/FLEX-BOX/menuFlexBoxTemplate.html",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/FLEX-BOX/formTemplate-04.html",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/HTML NOTES/HTML-StarterTemplate2.html",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/HTML NOTES/HTML-StarterTemplate.html",
+		"/C/Users/wardell/Desktop/urbanAg2020/Custom Wiring A Work Bench - Adding Electrical Outlets To A Wooden Bench or Table.html",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/TRAINING/javascriptProgrammingLanguage/stopwatch.js",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/TRAINING/javascriptProgrammingLanguage/GREATJavaScriptExercises.htm",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/TRAINING/javascriptProgrammingLanguage/phoneConversion.js",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/TRAINING/javascriptProgrammingLanguage/curve-editor.js",
+		"/C/Training2020/node_demo/CSS_GRID_PRACTICE_FILE-2",
+		"/C/Users/wardell/AppData/Roaming/Sublime Text 3/Packages/User/OpenInBrowser.sublime-settings",
+		"/C/Users/wardell/AppData/Roaming/Sublime Text 3/Packages/Open In Browser/OpenInBrowser.sublime-settings",
+		"/C/Program Files/Firefox Developer Edition/firefox.exe",
+		"/C/Training2020/node_demo/dist/main.js",
+		"/C/Training2020/node_demo/package.json",
+		"/C/Users/wardell/AppData/Roaming/Sublime Text 3/Packages/Open In Browser/README.md",
+		"/C/Users/wardell/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/wardell/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/CSS3 NOTES/CSS_GRID_PRACTICE_FILE_1",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/CSS3 NOTES/CSS_GRID_PRACTICE_FILE",
+		"/C/Training2020/node_demo/.git/COMMIT_EDITMSG",
+		"/C/Training2020/node_demo/test1.js",
+		"/C/Users/wardell/AppData/Local/Temp/package.json",
+		"/C/Training2020/node_demo/1package.json",
+		"/C/Training2020/travel-site/.gitignore",
+		"/C/Training2020/node_demo/test.js",
+		"/C/Program Files/nodejs/npm",
+		"/C/Program Files/nodejs/install_tools.bat",
+		"/C/Program Files/nodejs/npm.cmd",
+		"/C/Users/wardell/.config/configstore/update-notifier-npm.json",
+		"/C/Training2020/travel-site/package-lock.json",
+		"/C/Training2020/travel-site/welcome-to-git/index.html",
+		"/C/Training2020/travel-site/.git/COMMIT_EDITMSG",
+		"/C/Training2020/travel-site/app/bundled.js",
+		"/C/Users/wardell/Desktop/2020/FED NOTES/TRAINING/udemy/travel-site/app/bundled.js",
+		"/C/Users/wardell/Desktop/OLD-Laptop_Dump_And_2021/2019/URBANAG2018/content/HTMLDump/applicator2015d/functions.php",
+		"/C/Users/wardell/Desktop/OLD-Laptop_Dump_And_2021/2019/URBANAG2018/content/HTMLDump/applicator2015d/index.php",
+		"/C/Users/wardell/demo/app.js",
+		"/C/Users/wardell/demo/index.html",
+		"/C/Users/wardell/demo/.git/COMMIT_EDITMSG",
+		"/C/Users/wardell/demo/package.json",
+		"/C/Users/wardell/package.json",
+		"/C/nodejs/npm",
+		"/C/Users/wardell/Desktop/javaScript2020/Blue.html",
+		"/C/Users/wardell/Desktop/javaScript2020/regXPracticeFile1_2020.html",
+		"/C/Users/wardell/Desktop/eS6/exampleFiles2018/02 - Arrow functions/arrow-functions-examples.html",
+		"/C/Users/wardell/Desktop/javaScript2020/regXPracticeFile_2020",
+		"/C/Users/wardell/Desktop/OLD-Laptop_Dump/2018/FED NOTES/formTemplate-01.html",
+		"/C/Users/wardell/Desktop/OLD-Laptop_Dump/2019/WebDevelopment/htmlClass-01/HTML-01.txt",
+		"/C/Users/wardell/Desktop/Bird of Paradise Ranch/Custom Wiring A Work Bench - Adding Electrical Outlets To A Wooden Bench or Table.html",
+		"/C/Users/wardell/Desktop/javaScript2020/git web development/36-js/app/assets/scripts/App.js",
+		"/C/Users/wardell/Desktop/javaScript2020/git web development/36-js/webpack.config.js",
+		"/C/Users/wardell/AppData/Local/Temp/Temp1_original (7).zip/09-webpack-css/app/assets/scripts/App.js",
+		"/C/Users/wardell/Desktop/javaScript2020/git web development/original (1).js",
+		"/D/2020/2020-WebSites-EE1-BoP-UA/BoP2020/Bird of Paradise Ranch/javaScript2020/git web development/original.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								270,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/scripts/App.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/styles/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 54.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "css-loader-stage.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

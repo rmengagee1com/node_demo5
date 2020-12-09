@@ -1,0 +1,29 @@
+{
+  "name": "node_demo5",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmengagee1com/node_demo5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmengagee1com/node_demo5/issues"
+  },
+  "homepage": "https://github.com/rmengagee1com/node_demo5#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.0.4",
+    "css-loader": "^5.0.1",
+    "postcss-nested": "^5.0.1",
+    "postcss-simple-vars": "^6.0.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
