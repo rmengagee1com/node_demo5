@@ -2,6 +2,13 @@
 
 @mixin clearfix;
 
+	&__gutters{
+		margin-right: -65px;
+	}
+	
+	&__gutters-large{
+			margin-right: -100px;
+	}
 
 	&__gutters > div{
 		padding-right:65px;
@@ -9,14 +16,6 @@
 	}
 	&__gutters-large > div{
 		padding-right: 100px;
-	}
-
-	&__gutters{
-		margin-righ:-65px;
-	}
-
-	&__gutters-large{
-			margin-right: -100;
 	}
 
 	&__b-margin-until-medium{
