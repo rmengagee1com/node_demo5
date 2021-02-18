@@ -11,8 +11,28 @@
 		color:white;
 	}
 
+	&__no-b-padding-until-medium{
+		padding-bottom: 0;
+		@mixin atMedium{
+			padding-bottom: 4.5rem;
+		}
+	}
+
+	&__no-b-padding-until-larg{
+		padding-bottom: 0;
+		@mixin atLarge{
+			padding-bottom: 4.5rem;
+		}
+	}
+
 	&__testimonials{
-		background: url('/assets/images/testimonials-bg.jpg')top center no-repeat;
-		background-size:cover;
+		background-color: #e0e6ef;
+		/*This mixin is set for larger screens with the above background-color
+		set for smaller screens to save on user's data plan,and load time.*/
+		@mixin atLarge{
+			background: url('/assets/images/testimonials-bg.jpg')top center no-repeat;
+			background-size:cover;
+		}
+		
 	}
 }

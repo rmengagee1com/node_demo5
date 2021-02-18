@@ -11,7 +11,7 @@
 <body>
   <header>
     <img src="assets/images/icons/clear-view-escapes.svg">
-    <a href="#" class="btn">Do not get in Touch</a>
+    <a href="#" class="btn">Get in Touch</a>
     <nav>
       <ul>
         <li><a href="#our-beginning">Our Beginning</a></li>
@@ -152,38 +152,51 @@
   </div>
 </div>
 
-  <div id="testimonials" class="page-section page-section__testimonials">
-    <div class="wrapper">
+  <div id="testimonials" class="page-section page-section__no-b-padding-until-large page-section__testimonials">
+    <!-- The modifier class scales the colums to fit the whole screen on
+    cell phones and resets margins on atMedium mixin. -->
+    <div class="wrapper wrapper__no-padding-until-large">
          
-        <h2 class="section-title section-title__blue"><img class="section-title__icon"src="assets/images/icons/comment.svg">Real <strong>Testimonials</strong></h2>
+        <h2 class="section-title section-title__blue">
+          <img class="section-title__icon"src="assets/images/icons/comment.svg">Real <strong>Testimonials</strong></h2>
 <!-- Three Column Layout -->
-<div class="row row__gutters">
+<div class="row row__gutters row__equal-height-at-large row__gutters-small row__t-padding generic-content-container">
   <!--Testimonial Blocks -->
-  <div class="row__medium-4">
+  <div class="row__large-4">
       <div class="testimonial">
-         <img src="assets/images/testimonial-jane.jpg">
-      <h3>Jane Doe</h3>
-      <h3>9 Time Escaper</h3>
+        <div class="testimonial__photo">
+          <!-- The sizes attribute tell the browser to only a max size of 160px -->
+           <img sizes="160px" srcset="assets/images/testimonial-jane.jpg 160w, assets/images/testimonial-jane-hi-dpi.jpg 320w" alt="Jane Doe">
+        </div>        
+      <h3 class="testimonial__title">Jane Doe</h3>
+      <h4 class="testimonial__subtitle">9 Time Escaper</h4>
       <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&rdquo;</p>      
       </div>   
   </div>
-  <div class="row__medium-4">
-      <img src="assets/images/testimonial-john.jpg">
-    <h3>John Smith</h3>
-    <h3>4 Time Escaper</h3>
+  <div class="row__large-4">
+    <div class="testimonial">
+      <div class="testimonial__photo">
+        <img sizes="160px" srcset="assets/images/testimonial-john.jpg 160w,assets/images/testimonial-john-hi-dpi.jpg 320w">
+      </div>
+    <h3 class="testimonial__title">John Smith</h3>
+    <h4 class="testimonial__subtitle">4 Time Escaper</h4>
     <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur.&rdquo;</p>    
   </div>
-  <div class="row__medium-4">
-     <img src="assets/images/testimonial-cat.jpg">
-    <h3>Cat McKitty </h3>
-    <h3>6 Time Escaper</h3>
-    <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.&rdquo;</p>
+</div>
+
+  <div class="row__large-4">
+    <div class="testimonial testimonial__last">
+      <div class="testimonial__photo">
+        <img sizes="160px"srcset="assets/images/testimonial-cat.jpg 160w,
+        assets/images/testimonial-cat-hi-dpi.jpg 320w">
       </div>
-    
+        <h3 class="testimonial__title">Cat McKitty </h3>
+        <h4 class="testimonial__subtitle">6 Time Escaper</h4>
+        <p>&ldquo;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.&rdquo;</p>
+      </div>
+    </div>    
     </div>
-
   </div>
-
 </div>
  
 

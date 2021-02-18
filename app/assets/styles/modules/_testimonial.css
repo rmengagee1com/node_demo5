@@ -1,4 +1,72 @@
 .testimonial{
-	
-	background-color: rgba(255,255,255,.8);
+	background-color: rgba(255,255,255,.8);	
+/*
+	 This base padding is set to expand the
+	 text element accross the mobile screen.
+*/
+	padding:0 18px 0 18px;
+
+/*
+	Remember that the testimonial image was pulled up 80px for larger screens
+	using position relative. To counter-act this effect add margin-bottom to
+	the testimonial for smaller screens so the images don't overlap.
+*/
+margin-bottom: 98px;
+
+/*
+	By giving the above container a bottom padding 
+	any content contained in it will push up against it 
+	so the containing content doesn't 'leak' out.
+ */
+
+	@mixin atLarge{
+/*
+	This element negates the default margin set above.
+ */
+		margin-bottom: 0;
+/*
+	This mixin resets this blocks left and right padding
+	for larger screens. 
+*/
+		padding:0 1.8125rem 1px 1.8125rem; 
+	}
+
+	/*
+		This rule delets the light blue gap added to testimonials and page
+	*/
+	&__last{
+		margin-bottom: 0;
+	}
+
+	&__photo{
+		border-radius:80px;
+		overflow: hidden;
+		width:160px;
+		height: 160px;
+		margin:0 auto -80px auto;
+	/* 
+		Positioning image
+	*/
+		position:relative;
+		top:-80px;
+		border:6px solid rgba(255,255,255,255);
+
+
+	}	
+
+	&__title{
+		color:$mainBlue;
+		text-align: center;
+		font-size: 1.5rem;
+		font-weight: 500;
+		margin:0;
+	}
+
+	&__subtitle{
+		color:$mainOrange;
+		text-align: center;
+		font-weight: 400;
+		font-size: 0.9375;
+		margin:.25rem 0 1rem 0;
+	}
 }
